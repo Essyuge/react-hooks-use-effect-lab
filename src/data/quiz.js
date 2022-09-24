@@ -39,6 +39,13 @@ const questions = [
     answers: ["voodoo", "conditional", "reactive", "controlled"],
     correctIndex: 1,
   },
+  {
+    id: 7,
+    prompt:
+      "Are you depressed?",
+    answers: ["Yes", "Definately", "*start crying*", "hehe how did u know"],
+    correctIndex: 2
+  }
 ];
 
 export default questions;
